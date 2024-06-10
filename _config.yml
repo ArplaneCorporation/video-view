@@ -1,7 +1,7 @@
 # Site
-name: "Arplane Apps"
-title: "Arplane Apps"
-description: "The Arplane's apps"
+name: "Arplane Video"
+title: "Arplane Video"
+description: "Arplane Video"
 logo: 'favicon.ico'
 favicon: 'favicon.ico'
 baseurl: /apps
